@@ -1,4 +1,4 @@
-I. Intro:
+1. Intro:
 - Use case is pp (Hello World) exists in source repository and current version lives in production/sanbox
 - We need to make a change to the LWC
 - Show app in production and source in Git
