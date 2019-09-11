@@ -1,5 +1,5 @@
 1. Intro:
-- Use case is app (Hello World) exists in source repository and current version lives in production/sanbox
+- Use case is app (Hello World) exists in source repository and current version lives in production/sandbox
 - We need to make a change to the LWC
 - Show app in production and source in Git
 
